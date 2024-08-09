@@ -1,1 +1,1 @@
-# DIP-ECL-415-
+# DIP ECL-415
